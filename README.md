@@ -52,6 +52,10 @@ This project is a dynamic and interactive **Power BI dashboard** designed to ana
 - **Toggleable Metrics**: The **bubble map** offers users the ability to toggle between different metrics (e.g., number of titles, votes, average rating, and votes per title) for a comprehensive analysis.
 
 - **Netflix-Branded Aesthetic**: The dashboard uses a dark theme with **red accents** to align with Netflix’s visual identity, creating a branded and visually appealing experience.
+- **Conditional Color Grading with DAX** 🎨:
+   - I implemented **color grading** using **DAX** expressions to dynamically change the **font color** and **background color** based on the **average rating** of each title.
+   - **High ratings** are shown with **intense red colors**, while lower ratings are represented with lighter shades. This gives an immediate visual cue of the content's quality.
+   - The use of **conditional formatting** ensures that users can quickly spot highly rated content at a glance by the **color intensity** of the background and text.
 
 ## Insights 💡
 
@@ -92,7 +96,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to ana
 ---
 
 ### Example of Bubble Map:
-![Dashboard Screenshot](Image.png)
+![Bubble Map]()
 
 ---
 
