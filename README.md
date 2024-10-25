@@ -77,9 +77,9 @@ This project is a dynamic and interactive **Power BI dashboard** designed to ana
 
 ## Files 📁
 
-- **Netflix-Dashboard.pbix**: The Power BI file containing the dashboard.
+- **Keshava_NetflixProject.pbix**: The Power BI file containing the dashboard.
 - **Dataset - Netflix-Listings.xlsx**: The dataset used for the analysis.
-- **Image.png**: A screenshot of the final dashboard, providing a visual representation of the project.
+-  Screenshots of the final dashboard and some of the charts, providing a visual representation of the project.
 
 ## How to Use the Dashboard 🖥️
 
@@ -89,7 +89,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to ana
 
 ## Future Enhancements 🚀
 
-1. **Advanced Filters**: Adding more filters for deeper analysis, such as **year of release**, **director**, or **cast**.
+1. **Advanced Filters**: Adding more variables for deeper analysis, such as **year of release**, **director**, or **cast**.
 2. **Custom Tooltips**: Enhancing the dashboard with detailed tooltips for each title, showing more information on hover.
 3. **Integration with External APIs**: Adding real-time data integration with platforms like **IMDb** to show updated ratings and user reviews.
 
