@@ -2,6 +2,8 @@
 
 ## Overview 📝
 This project is a dynamic and interactive **Power BI dashboard** designed to analyze Netflix's **Movies and TV Shows** data. The goal is to provide insights into Netflix’s content across various dimensions, such as **ratings**, **genres**, **votes**, and **geographical distribution**. The dashboard allows users to explore Netflix's vast content library with visually appealing charts and interactivity.
+### Dashboard Preview:
+![Dashboard](https://github.com/KeshavaYada/Netflix-Dashboard/blob/main/Bubble%20chart.png)
 
 ## Features 🔥
 
@@ -96,7 +98,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to ana
 ---
 
 ### Example of Bubble Map:
-![Bubble Map]()
+![Bubble Map](https://github.com/KeshavaYada/Netflix-Dashboard/blob/main/Bubble%20chart.png)
 
 ---
 
