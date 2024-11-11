@@ -70,6 +70,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to ana
 3. **Rating Distribution**:
    - The **waterfall chart** highlights that most Netflix titles fall in the **6-8 rating range**, with fewer titles in the 9+ or below 5 categories.
 
+
 ## Project Outcomes 💡
 
 - The dashboard provides Netflix users, analysts, and content creators with valuable insights into Netflix’s global content library.
